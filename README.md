@@ -1,2 +1,2 @@
 # QUIZ-APP
-A simple flutter quiz app
+A flutter quiz app
